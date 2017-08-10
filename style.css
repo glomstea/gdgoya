@@ -139,6 +139,10 @@ button {
   flex-wrap: wrap;
 }
 
+.parent img {
+  display: block;
+}
+
 .overlayz {
   position: relative;
   flex: 1;
